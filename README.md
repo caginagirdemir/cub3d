@@ -1,6 +1,6 @@
 # cub3d
 
-<img src="cub3d.png" width="350" height="300"/>
+<img src="cub3d.png" width="500" height="250"/>
 
 | Specs  | Explanation |
 | ------------- | ------------- |
