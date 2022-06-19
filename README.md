@@ -1,5 +1,7 @@
 # cub3d
 
+<img src="cub3d.png"/>
+
 | Specs  | Explanation |
 | ------------- | ------------- |
 | Program name | cub3d |
