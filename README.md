@@ -33,17 +33,13 @@ The constrains are as follows:
 - Your program must take as a first argument a scene description file with the .cub extension.
   - The map must be composed of only 6 possible characters: 0 for an empty space, 1 for a wall, and N,S,E or W for the player's start position and spawing orientation.
 This is a simple valid map:
-
-111111
-
-100101
-
-101001
-
-1100N1
-
-111111
-
+    ```
+    111111
+    100101
+    101001
+    1100N1
+    111111
+    ```
   - The map must be closed/surrounded by walls, if not the program must return an error.
   - Except for the map content, each type of element can be separated by one or more empty line(s).
   - Except for the map content, each type of element can be separated by one or more empty line(s).
