@@ -2,9 +2,7 @@
 
 <img src="cub3d.png" width="500" height="250"/>
 
-**Project Objectives**
-
-Files operations, Ray Casting calculations, fish-eye fixing, converting 2D points into 3D walls
+**Project Objectives** : Files operations, Ray Casting calculations, fish-eye fixing, converting 2D points into 3D walls
 
 | Specs  | Explanation |
 | ------------- | ------------- |
